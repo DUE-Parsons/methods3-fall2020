@@ -9,7 +9,7 @@ school:
   email:
 description: > # this means to ignore newlines until "baseurl:"
   DESCRIPTION
-baseurl: /methods3-fall2020/
+baseurl: /methods3-fall2020
 url: http://due-parsons.github.io
 twitter_username: TheNewSchool
 github_username:  DUE-Parsons
