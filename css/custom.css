@@ -39,6 +39,7 @@
 .header {
   margin-top: 20px;
   margin-bottom: 20px;
+  padding-top: 5rem;
 }
 .main-img {
   margin-bottom: 20px;
@@ -47,7 +48,6 @@
 .full-width {
   width: 100%;
 }
-
 
 
 .site-wrapper {
